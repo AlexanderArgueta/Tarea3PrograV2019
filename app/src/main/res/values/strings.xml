@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GLTarea3ListView</string>
+    <string name="txt_ingreso_mascota">Ingrese Nombre de la Mascota:</string>
+    <string name="txt_tipo_mascota">Seleccione el tipo de Mascota:</string>
+    <string name="txt_Perro">Perro</string>
+    <string name="txt_Gato">Gato</string>
+    <string name="txt_Ave">Ave</string>
+    <string name="txt_ingreso_nacimiento">Ingrese Fecha de Nacimiento:</string>
+    <string name="txt_guardar_mascota">Guardar Mascotas</string>
+    <string name="txt_consultar_mascotas">Consultar Mascotas</string>
+</resources>
